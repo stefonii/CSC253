@@ -1,0 +1,7 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\obj\Debug\HeightTest.csprojAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\obj\Debug\HeightTest.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\bin\Debug\HeightTest.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\bin\Debug\HeightTest.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\bin\Debug\HeightTest.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\obj\Debug\HeightTest.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\HeightTest\HeightTest\obj\Debug\HeightTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\bin\Debug\Course.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\bin\Debug\Course.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\bin\Debug\Course.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\obj\Debug\Course.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Course\Course\obj\Debug\Course.pdb

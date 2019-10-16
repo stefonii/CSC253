@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb

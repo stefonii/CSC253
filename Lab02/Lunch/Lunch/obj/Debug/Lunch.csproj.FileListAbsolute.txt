@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\bin\Debug\Lunch.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\bin\Debug\Lunch.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\obj\Debug\Lunch.csprojResolveAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\obj\Debug\Lunch.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\obj\Debug\Lunch.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lunch\Lunch\obj\Debug\Lunch.pdb

@@ -1,0 +1,7 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\obj\Debug\StudentTest.csprojAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\obj\Debug\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\bin\Debug\StudentTest.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\bin\Debug\StudentTest.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\obj\Debug\StudentTest.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\StudentTest\StudentTest\obj\Debug\StudentTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Registration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache

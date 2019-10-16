@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\bin\Debug\Large.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\bin\Debug\Large.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\obj\Debug\Large.csprojResolveAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\obj\Debug\Large.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\obj\Debug\Large.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab03\Large\Large\obj\Debug\Large.pdb

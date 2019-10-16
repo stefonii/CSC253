@@ -1,0 +1,7 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\obj\Debug\Lab07.csprojAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab07\Lab07\Lab07\obj\Debug\Lab07.pdb

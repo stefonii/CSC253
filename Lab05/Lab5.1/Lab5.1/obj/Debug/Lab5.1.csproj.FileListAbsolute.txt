@@ -1,0 +1,7 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\bin\Debug\Lab5.1.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\bin\Debug\Lab5.1.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\bin\Debug\Lab5.1.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\obj\Debug\Lab5.1.csprojAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\obj\Debug\Lab5.1.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\obj\Debug\Lab5.1.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Lab05\Lab5.1\Lab5.1\obj\Debug\Lab5.1.pdb

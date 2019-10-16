@@ -1,0 +1,7 @@
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\bin\Debug\Question3.exe.config
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\bin\Debug\Question3.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\bin\Debug\Question3.pdb
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\obj\Debug\Question3.exe
+C:\Users\snguy\Documents\School\Fall 2019\CSC 253\Midterm\Question3\Question3\obj\Debug\Question3.pdb
