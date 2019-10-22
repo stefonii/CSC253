@@ -1,0 +1,6 @@
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\bin\Debug\Lab1.1.pdb
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\obj\Debug\Lab1.1.csprojResolveAssemblyReference.cache
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\obj\Debug\Lab1.1.csproj.CoreCompileInputs.cache
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\obj\Debug\Lab1.1.exe
+C:\Users\snguy\source\repos\Lab1.1\Lab1.1\obj\Debug\Lab1.1.pdb
